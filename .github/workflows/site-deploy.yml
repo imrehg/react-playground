@@ -25,7 +25,6 @@ jobs:
         run: |
           jupyter nbconvert --to python fig1.ipynb
           python3 fig1.py
-          mv fig1.json ../pages/
 
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1

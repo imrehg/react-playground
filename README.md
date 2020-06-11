@@ -16,3 +16,4 @@ Launch cleaned notebook in Binder: [here](https://mybinder.org/v2/gh/imrehg/reac
 
 Open Fig1 in Binder: [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/imrehg/react-playground/master?filepath=demo%2Ffig1-clean.ipynb)
 
+Some changes
